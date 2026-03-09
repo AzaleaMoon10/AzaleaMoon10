@@ -16,9 +16,6 @@
     <img src="https://badges.pufler.dev/repos/AzaleaMoon10?style=flat-square&color=black&logo=github">
   </a>
 </p>
-<p align="center">
-<a href="https://github.com/AzaleaMoon10"><img src="https://img.shields.io/github/followers/AzaleaMoon10?style=social"></a>
-</p>
 <hr>
 <h2 align="center">
   Front-End
