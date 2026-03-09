@@ -8,14 +8,14 @@
 
 <p align=center>
   <a href="https://github.com/AzaleaMoon10">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/AzaleaMoon10/AzaleaMoon10?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/AzaleaMoon10?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/AzaleaMoon10?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/AzaleaMoon10"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+<a href="https://github.com/AzaleaMoon10"><img src="https://img.shields.io/github/followers/AzaleaMoon10?style=social"></a>
 </p>
 <hr>
 <h2 align="center">
