@@ -1,8 +1,10 @@
 
 <h2 align="center">Hello there! My name is Carla Clemente Marín.</h2>
-<p align="center">I'm a recently graduated Full Stack Developer 
+<p align="center">I'm a recently graduated Full Stack Developer. I enjoy learning new technologies and prefer backend to work at. I have autodidac experience learning C++, Pytnon, Lua and JS but joined a bootcamp to iron my skills.
 </p>
-
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVxDaB7muReQ%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=89b72ea79d92952020cbe83f6d014f6aa73f4406b05819675bca5bcc071d2283" />
+</p>
 <p align="center"><a href="https://www.linkedin.com/in/carla-clemente-mar%C3%ADn-613616378/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
