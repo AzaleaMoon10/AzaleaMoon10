@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello there! My name is Carla Clemente Marín.</h2>
-<p align="center">I'm a recently graduated Full Stack Developer. I enjoy learning new technologies and prefer backend to work at. I have autodidac experience learning C++, Pytnon, Lua and JS but joined a bootcamp to iron my skills.
+<p align="center">Full Stack Developer with experience in JavaScript, Python, Flask and SQL and skills in problem solving under pressure, teamwork and constant learning. I enjoy learning new technologies and prefer backend to work at. I have autodidac experience learning C++, Python, Lua and JS but joined a bootcamp to iron out my skills.
 </p>
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVxDaB7muReQ%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=89b72ea79d92952020cbe83f6d014f6aa73f4406b05819675bca5bcc071d2283" />
